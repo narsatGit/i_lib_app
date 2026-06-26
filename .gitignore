@@ -1,0 +1,14 @@
+# Environnement virtuel
+venv/
+.venv
+.git
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Base de données 
+data/i_lib.db
+
+# Fichiers systeme
+.DS_Store
+Thumbs.db
