@@ -674,3 +674,4 @@ def show():
                 del st.session_state["jeu_a_modifier"]
 
             st.rerun()
+            
